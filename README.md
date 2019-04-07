@@ -1,0 +1,2 @@
+# MARS_Robot_Game
+Rover control system. The robot is on the field, divided by square cells. The size of the field is unknown. Initially, at system startup control, the robot does not store any information about its surrounding space. The task of the robot is to explore the map and collect the maximum amount of resources. Robot can scan sensors surrounding 4 cells and get data that located in these cells:
